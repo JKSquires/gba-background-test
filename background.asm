@@ -1,5 +1,7 @@
 b start
 
+@include header.asm
+
 @include map.asm
 @include tiles.asm
 
